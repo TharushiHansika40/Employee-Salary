@@ -1,0 +1,32 @@
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.exe
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.deps.json
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.runtimeconfig.json
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.dll
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.pdb
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp_Salary.Form1.resources
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.AssemblyInfo.vb
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.dll
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\refint\Emp Salary.dll
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.pdb
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\NVQ IV\visual studio\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\ref\Emp Salary.dll
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.exe
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.dll
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\bin\Debug\net8.0-windows\Emp Salary.pdb
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp_Salary.Form1.resources
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.vbproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.dll
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\refint\Emp Salary.dll
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.pdb
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\Emp Salary.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\nvq\VS\Emp Salary\Emp Salary\obj\Debug\net8.0-windows\ref\Emp Salary.dll
